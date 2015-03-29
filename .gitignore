@@ -1,0 +1,5 @@
+target
+bin
+.project
+.classpath
+git_bash.sh
